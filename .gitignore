@@ -29,7 +29,7 @@ Thumbs.db
 # Project specific
 *.csv
 example/
-Week3.md
 questions_list.txt
 naukri_data_scientist_jobs.csv
-EnvSetupGuide.pdf 
+EnvSetupGuide.pdf
+Week3.md 
