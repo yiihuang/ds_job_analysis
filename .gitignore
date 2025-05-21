@@ -32,4 +32,7 @@ example/
 questions_list.txt
 naukri_data_scientist_jobs.csv
 EnvSetupGuide.pdf
-Week3.md 
+Week3.md
+
+.env
+classification_cache.json 
